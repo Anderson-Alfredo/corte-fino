@@ -1,5 +1,7 @@
 Corte-Fino
+
 Sistema de gerenciamento de revendas de serras para tornearias e afins.
+
 Funções do meu aplicativo:
 [#] Sistema que registra os usuários, organizado por IDs.
 [#] Sistema de encomendação de cada produto.
